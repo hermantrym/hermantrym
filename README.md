@@ -21,7 +21,7 @@ func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                     "A kind of foodLover-gamer-coder-programmer hybrid",
 		"- 🔭 I’m currently working on":      "Dian Nuswantoro University as a Laboran Research Lab",
-		"- 🌱 I’m currently learning":        "Golang, Machine Learning, Data Scientist --- Sharpening my Mobile App Developer Skills for the Android Developer (Personal goal)",
+		"- 🌱 I’m currently learning":        "Golang, Competitive Programming, Machine Learning, Data Scientist --- Sharpening my Mobile App Developer Skills for the Android Developer (Personal goal)",
 		"- 👯 I’m looking to collaborate on": "Python, C++ and CMake related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Python, C, C++, SQL, Software Design & Architecture, and Web-Dev",
@@ -43,6 +43,10 @@ func GetBio() Bio {
 
   <a href="https://meta.stackexchange.com/users/988936/hermantrym?tab=profile">
     <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="hermantrym Stack Exchange Profile" height="30" width="30">
+  </a>
+
+  <a href="https://www.hackerrank.com/exwlv?hr_r=1">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/hackerrank.svg" alt="hermantrym Hackerrank Profile" height="30" width="30">
   </a>
 
   <a href="https://instagram.com/hermantrym">
