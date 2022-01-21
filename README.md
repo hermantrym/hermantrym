@@ -1,5 +1,3 @@
-# Hermantrym
-
 ```golang
 package main
 
